@@ -10,11 +10,13 @@ Preparing and uploading of Video Tutorial on finding complexity of algorithms an
 LAB-Internal Assignment-2:
 Solve 2 problems and submit their video and score card, from problem set available on kaggle1/Top coder2/Codeshef 3/ hakerrank4.
 
-Part 1-
+Part-1:
+
 [![ADA-Lab-Assignment](https://img.youtube.com/vi/LzmRN_VNwJ0/0.jpg)](https://www.youtube.com/watch?v=LzmRN_VNwJ0)
 
 
-Part 2-
+Part-2:
+
 [![ADA-Lab-Assignment](https://img.youtube.com/vi/feDNGugjHvc/0.jpg)](https://www.youtube.com/watch?v=feDNGugjHvc)
 
 
